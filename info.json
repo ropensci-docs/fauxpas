@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "c40a0ae52e6ef58af4b6720495ab1a8f13ac446b",
+    "author": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "time": "2020-11-02 19:47:30",
+    "files": 3,
+    "merge": false,
+    "message": "replace ci readme badge; use link to ropensci coc instead of coc file\n"
+  },
+  "remote": "https://github.com/ropensci/fauxpas",
+  "pkg": "fauxpas"
+}

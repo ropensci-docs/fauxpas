@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/fauxpas/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/fauxpas/reference/Error-Classes.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/fauxpas/reference/Error.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/fauxpas/reference/fauxpas-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/fauxpas/reference/find_error_class.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/fauxpas/reference/http.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/fauxpas/articles/fauxpas-vignette.html</loc>
+  </url>
+</urlset>
